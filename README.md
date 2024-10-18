@@ -7,9 +7,7 @@ I'm Mitchell Maliglig, a web developer in the Los Angeles Area.
 - ⚡ I enjoy playing video games and listening to music during my spare time.
 
 ## 🛠️ Technologies & Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-![image]({https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white})
-<img src="{{https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white}" />
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts)](https://skillicons.dev)
 <!--
 **MitchellMaliglig/MitchellMaliglig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
