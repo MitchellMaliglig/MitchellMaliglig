@@ -8,6 +8,7 @@ I'm Mitchell Maliglig, a web developer in the Los Angeles Area.
 
 ## 🛠️ Technologies & Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 <!--
 **MitchellMaliglig/MitchellMaliglig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
