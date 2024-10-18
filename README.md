@@ -1,7 +1,10 @@
-## Hi there 👋
+## 👋 Hi there!
 
 I'm Mitchell Maliglig, a web developer in the Los Angeles Area.
 
+## 💬 About Me
+- ↔️ I'm currently looking for a front-end, back-end, or full-stack position using the PERN stack.
+- ⚡ I enjoy playing video games and listening to music during my spare time.
 <!--
 **MitchellMaliglig/MitchellMaliglig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
