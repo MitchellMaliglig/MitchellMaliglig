@@ -2,8 +2,8 @@
 I'm Mitchell Maliglig, a web developer in the Los Angeles Area.
 
 ## 💬 About Me
-- 🌱 I plan on learning React Native in the future to learn mobile app development.
-- ↔️ I'm currently looking for a front-end, back-end, or full-stack position using the PERN stack.
+- 🌱 I'm currently learning React Native to learn mobile app development.
+- ↔️ I'm looking for a front-end, back-end, or full-stack position using the PERN stack.
 - ⚡ I enjoy playing video games and listening to music during my spare time.
 
 ## 🛠️ Technologies & Tools
